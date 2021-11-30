@@ -133,7 +133,7 @@ export default class App extends Component {
                 <TouchableOpacity
                   onPress={this.onscreen6.bind(this)}
                   style={styles.touchmenu}>
-                  <Icon name="cog" style={styles.iconn} />
+                  <Icon name="user" style={styles.iconn} />
                   <Text style={styles.textlabless}>ตั้งค่า</Text>
                 </TouchableOpacity>
               </View>
